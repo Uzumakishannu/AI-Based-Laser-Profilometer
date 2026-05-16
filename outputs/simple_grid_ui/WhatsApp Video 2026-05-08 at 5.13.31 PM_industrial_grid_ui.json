@@ -1,0 +1,42 @@
+{
+  "input_video": "C:\\Users\\shann\\Downloads\\WhatsApp Video 2026-05-08 at 5.13.31 PM.mp4",
+  "output_video": "C:\\Users\\shann\\Documents\\Codex\\2026-05-09\\files-mentioned-by-the-user-whatsapp\\laser_profiler_reusable_code\\outputs\\simple_grid_ui\\WhatsApp Video 2026-05-08 at 5.13.31 PM_industrial_grid_ui.mp4",
+  "interactive_3d_html": "C:\\Users\\shann\\Documents\\Codex\\2026-05-09\\files-mentioned-by-the-user-whatsapp\\laser_profiler_reusable_code\\outputs\\simple_grid_ui\\WhatsApp Video 2026-05-08 at 5.13.31 PM_interactive_3d_surface.html",
+  "fps": 30.0098,
+  "frames_processed": 916,
+  "duration_seconds": 30.523,
+  "defect_channels": {
+    "missing_coating": {
+      "max": 1.0,
+      "mean": 0.5711,
+      "coverage_percent": 99.911
+    },
+    "scratches": {
+      "max": 1.0,
+      "mean": 0.004,
+      "coverage_percent": 0.681
+    },
+    "irregular_edges_peel_off": {
+      "max": 1.0,
+      "mean": 0.0496,
+      "coverage_percent": 6.897
+    },
+    "air_bubbles": {
+      "max": 1.0,
+      "mean": 0.001,
+      "coverage_percent": 0.169
+    },
+    "texture_pits": {
+      "max": 1.0,
+      "mean": 0.1189,
+      "coverage_percent": 12.741
+    }
+  },
+  "classification_notes": {
+    "missing_coating": "Large low-reflection coating loss or missing paint.",
+    "irregular_edges_peel_off": "Torn coating boundary, peel-off skin, edge damage, and jagged delamination.",
+    "air_bubbles": "Raised laser-profile peaks and oval swelling regions.",
+    "scratches": "Narrow line defects and black line-like laser intensity dips.",
+    "texture_pits": "Distributed roughness, small pitting, pin holes, and local depressions."
+  }
+}

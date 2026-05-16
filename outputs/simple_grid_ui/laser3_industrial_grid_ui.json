@@ -1,0 +1,42 @@
+{
+  "input_video": "C:\\Users\\shann\\Downloads\\laser3.mp4",
+  "output_video": "C:\\Users\\shann\\Documents\\Codex\\2026-05-09\\files-mentioned-by-the-user-whatsapp\\laser_profiler_reusable_code\\outputs\\simple_grid_ui\\laser3_industrial_grid_ui.mp4",
+  "interactive_3d_html": "C:\\Users\\shann\\Documents\\Codex\\2026-05-09\\files-mentioned-by-the-user-whatsapp\\laser_profiler_reusable_code\\outputs\\simple_grid_ui\\laser3_interactive_3d_surface.html",
+  "fps": 59.9715,
+  "frames_processed": 1328,
+  "duration_seconds": 22.144,
+  "defect_channels": {
+    "missing_coating": {
+      "max": 1.0,
+      "mean": 0.7581,
+      "coverage_percent": 99.993
+    },
+    "scratches": {
+      "max": 1.0,
+      "mean": 0.0097,
+      "coverage_percent": 1.754
+    },
+    "irregular_edges_peel_off": {
+      "max": 1.0,
+      "mean": 0.0423,
+      "coverage_percent": 5.944
+    },
+    "air_bubbles": {
+      "max": 0.0,
+      "mean": 0.0,
+      "coverage_percent": 0.0
+    },
+    "texture_pits": {
+      "max": 1.0,
+      "mean": 0.1546,
+      "coverage_percent": 16.087
+    }
+  },
+  "classification_notes": {
+    "missing_coating": "Large low-reflection coating loss or missing paint.",
+    "irregular_edges_peel_off": "Torn coating boundary, peel-off skin, edge damage, and jagged delamination.",
+    "air_bubbles": "Raised laser-profile peaks and oval swelling regions.",
+    "scratches": "Narrow line defects and black line-like laser intensity dips.",
+    "texture_pits": "Distributed roughness, small pitting, pin holes, and local depressions."
+  }
+}
